@@ -23,7 +23,7 @@ Rudder packages are built every night. There is a nightly scheme for each releas
 * alpha: `X.Y.Z~alpha~gitYYYYMMDDHHMM`
 * beta: `X.Y.Z~betaN~gitYYYYMMDDHHMM`
 * rc: `X.Y.Z~rcN~gitYYYYMMDDHHMM`
-* release: `X.Y.Z̀~gitYYYYMMDDHHMM`
+* release: `X.Y.Z~gitYYYYMMDDHHMM`
 
 == Rudder life cycle
 
